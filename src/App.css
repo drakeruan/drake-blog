@@ -2,3 +2,12 @@
   margin: 0 auto;
   max-width: 750px;
 }
+
+a {
+  text-decoration: none;
+  color: unset
+}
+
+main {
+  min-height: 80vh;
+}
